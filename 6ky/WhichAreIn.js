@@ -1,0 +1,10 @@
+// a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
+// returns ["arp", "live", "strong"]
+// Example 2:
+// a1 = ["tarp", "mice", "bull"]
+// a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
+// returns []
+// Notes:
+//     Arrays are written in "general" notation. See "Your Test Cases" for examples in your language.
+//     In Shell bash a1 and a2 are strings. The return is a string where words are separated by commas.
+//     Beware: r must be without duplicates.

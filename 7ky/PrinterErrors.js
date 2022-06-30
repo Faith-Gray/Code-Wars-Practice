@@ -25,3 +25,5 @@ function printerError(s) {
    return `${error}/${s.length}`;
 
 }
+
+//I love this problem and this solution because it allowed for me to get a better understanding of the map method. I took a look at the other answers on Codewars and I think this one is the most intuitive. My first thought was to loop through the array and check every single one for if it matched each individual character. While that would have worked. It obviously would have ended up super long.

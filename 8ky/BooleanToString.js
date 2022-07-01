@@ -5,3 +5,5 @@ function booleanToString(b){
     let message = b === true ? "true" : "false";
     return message;
 }
+
+//I need to practice ternerary expressions.

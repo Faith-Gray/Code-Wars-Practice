@@ -28,4 +28,5 @@ String.prototype.toAlternatingCase = function () {
       }
     } 
     return newString;
+    
   }

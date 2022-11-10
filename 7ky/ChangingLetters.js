@@ -7,3 +7,7 @@
 // Output : "HEllO WOrld!"
 
 // Note: Y is not a vowel in this kata.
+
+
+const vowels = ["a", "e", "i", "o", "u"];
+const swap = s => s.split('').map(x => vowels.includes(x) ? x.toUpperCase() : x).join('');
